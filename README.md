@@ -128,6 +128,7 @@ Generates a beautiful HTML report and can send email alerts.
 ```powershell
 .\Project2-SystemHealthMonitor.ps1
 ```
+<img width="922" height="372" alt="Pasted image 20260114153033" src="https://github.com/user-attachments/assets/b5ef3d7d-4e9b-48d7-a7c7-0131711de054" />
 
 #### With Email Alerts
 ```powershell
