@@ -46,6 +46,8 @@ Automates the complete process of creating new user accounts in Active Directory
 .\Project1-UserOnboarding.ps1 -CsvPath "C:\NewUsers.csv"
 ```
 <img width="987" height="128" alt="Pasted image 20260114144852" src="https://github.com/user-attachments/assets/b700f275-7e9a-4377-9c7b-224dc3c3a0a8" />
+<img width="600" height="79" alt="Pasted image 20260114150439" src="https://github.com/user-attachments/assets/2f81871d-a18a-41c3-b5b2-b0029abc0ce0" />
+
 
 #### Test Mode (Shows what would happen)
 ```powershell
@@ -70,6 +72,8 @@ FirstName,LastName,Username,Email,Department,Title,Manager
 John,Doe,jdoe,jdoe@domain.com,IT,Systems Administrator,jsmith
 Jane,Smith,jsmith,jsmith@domain.com,IT,IT Manager,
 ```
+<img width="974" height="184" alt="Pasted image 20260114150646" src="https://github.com/user-attachments/assets/99faa5b1-c0e0-467e-a7eb-89c4c8378376" />
+
 
 **Note:** A sample CSV file (`sample-users.csv`) is included.
 
@@ -91,6 +95,8 @@ Jane,Smith,jsmith,jsmith@domain.com,IT,IT Manager,
 - Email confirmation to each new user
 
 ---
+<img width="634" height="257" alt="Pasted image 20260114150556" src="https://github.com/user-attachments/assets/6de1c57b-613a-4b7c-bd65-e3aa21d409d4" />
+
 
 ## Project 2: System Health Monitor
 
