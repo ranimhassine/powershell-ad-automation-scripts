@@ -1,0 +1,7 @@
+FirstName,LastName,Username,Email,Department,Title,Manager
+John,Doe,jdoe,jdoe@domain.com,IT,Systems Administrator,jsmith
+Jane,Smith,jsmith,jsmith@domain.com,IT,IT Manager,
+Mike,Johnson,mjohnson,mjohnson@domain.com,Sales,Sales Representative,bwilson
+Sarah,Williams,swilliams,swilliams@domain.com,HR,HR Specialist,aanderson
+Bob,Wilson,bwilson,bwilson@domain.com,Sales,Sales Manager,
+Alice,Anderson,aanderson,aanderson@domain.com,HR,HR Manager,
