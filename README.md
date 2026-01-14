@@ -45,6 +45,7 @@ Automates the complete process of creating new user accounts in Active Directory
 ```powershell
 .\Project1-UserOnboarding.ps1 -CsvPath "C:\NewUsers.csv"
 ```
+<img width="987" height="128" alt="Pasted image 20260114144852" src="https://github.com/user-attachments/assets/b700f275-7e9a-4377-9c7b-224dc3c3a0a8" />
 
 #### Test Mode (Shows what would happen)
 ```powershell
