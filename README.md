@@ -212,6 +212,7 @@ Generates detailed reports and can optionally take action on findings.
 ```powershell
 .\Project3-ADCleanup.ps1 -InactiveDays 90
 ```
+<img width="955" height="455" alt="Pasted image 20260114162851" src="https://github.com/user-attachments/assets/841afef3-8fe8-4a37-acd2-0bde0719c52c" />
 
 #### Test Actions (See what would happen)
 ```powershell
